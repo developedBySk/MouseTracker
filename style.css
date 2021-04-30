@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+.rectangle{
+	height: 5px;
+	width: 5px;
+	border: solid black;
+	background-color: black;
+	border-radius: 50%;
+}
+.coordinate-box{
+	height:100px;
+	width: 200px;
+	border: solid black;
+	position: absolute;
+	top:410;
+	left: 640;
+}
